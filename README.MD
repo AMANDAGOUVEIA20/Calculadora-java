@@ -1,4 +1,4 @@
-# Minha primeira Calculadora feita em Java :computer: :happy:
+# Minha primeira Calculadora feita em Java :computer: 
 
 
 
